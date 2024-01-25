@@ -1,4 +1,6 @@
 # Block-23-Puppy-Pals
+Deployed Netifly site [here](https://jaybrdy-puppypals.netlify.app/)!
+
 
 # React + Vite
 
