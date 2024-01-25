@@ -9,9 +9,9 @@ function App() {
   // console.log(puppies)
   // console.log("puppy id: ", puppy.id)
 
-  // function handleClick() {
-  //   // some logic here
-  // }
+  function handleClick() {
+    // some logic here
+  }
 
   return (
     <div className="App">
