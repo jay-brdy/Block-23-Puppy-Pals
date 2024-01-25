@@ -4,14 +4,13 @@ import { useState } from 'react'
 
 function App() {
   const [puppies, setPuppies] = useState(puppyList);
+  // const [puppies] = useState(puppyList);
   const [featPupId, setFeatPupId] = useState(null);
   const featuredPup = puppies.find((pup) => pup.id === featPupId);
-  // console.log(puppies)
-  // console.log("puppy id: ", puppy.id)
 
-  function handleClick() {
-    // some logic here
-  }
+  // function handleClick() {
+  //   // some logic here
+  // }
 
   return (
     <div className="App">
